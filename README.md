@@ -1,3 +1,12 @@
+## About Tugas UTS ku ini
+Pada website ini berisi katalog dari suatu toko yang bernama Wibu Nobar, pada toko tersebut dapat menyewa ataupun memutar secara langsung kaset anime yang disediakan toko tersebut. Dengan adanya website ini pengunjung yang ingin datang ke toko ini dapat melihat-lihat terlebih dahulu anime apa saja yang tersedia. Tetapi pengunjung diwajibkan untuk memasukan username terlebih dahulu agar bisa melihat katalog serial ataupun film Anime yang tersedia di toko.
+
+Fitur: 
+- Login/Logout
+- Dashboard
+- Katalog
+- Profil
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
