@@ -46,7 +46,7 @@ class PageController extends Controller
         return view('profile', [
             'username' => $request->query('username', 'Tamu'),
             'toko' => [
-                'nama' => 'Bawang Nobar',
+                'nama' => 'Wibu Nobar',
                 'alamat' => 'Jember, Lobby Fasilkom',
                 'tentang' => 'Tempat sewa kaset Anime ataupun nonton bareng ditempat.',
             ],
