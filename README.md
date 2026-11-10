@@ -1,3 +1,15 @@
+## About 
+Pada website ini dapat melihat katalog dari anime yang tersedia di dalam toko Wibu Nobar. Sebelum pengguna mengakses katalog dia diwajibkan untuk mengisi username. Selain dapat melihat katalog, pengguna bisa melihat profile toko.
+
+Fitur:
+| Login | Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Katalog | Profil |
+|---|---|
+| ![Katalog](screenshots/katalog.png) | ![Profil](screenshots/profil.png) |
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
