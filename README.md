@@ -4,11 +4,11 @@ Pada website ini dapat melihat katalog dari anime yang tersedia di dalam toko Wi
 Fitur:
 | Login | Dashboard |
 |---|---|
-| ![Login](public/screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](public/screenshots/login.png) | ![Dashboard](public/screenshots/dashboard.png) |
 
 | Katalog | Profil |
 |---|---|
-| ![Katalog](screenshots/katalog.png) | ![Profil](screenshots/profil.png) |
+| ![Katalog](public/screenshots/katalog.png) | ![Profil](public/screenshots/profil.png) |
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
