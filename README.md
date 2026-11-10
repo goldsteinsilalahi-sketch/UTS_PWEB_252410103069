@@ -4,7 +4,7 @@ Pada website ini dapat melihat katalog dari anime yang tersedia di dalam toko Wi
 Fitur:
 | Login | Dashboard |
 |---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](public/screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Katalog | Profil |
 |---|---|
